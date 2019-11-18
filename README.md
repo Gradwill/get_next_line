@@ -1,2 +1,2 @@
 # get_next_line
-A C function to get a next line from a standard output or an input stream open in a C program and represented by a file descriptor (integer value).
+A C function to get a next line of text(delimited by a newline character) from an open input stream represented by a file descriptor interger variable.
